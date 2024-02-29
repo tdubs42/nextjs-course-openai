@@ -2,7 +2,7 @@ repo_name: tdubs42/nextjs-course-openai
 report_id: 6aab04b54cf1567ee8d1bf33bc2180eb
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-31T03:53:08+00:00'
+timestamp: '2024-02-29T18:23:27+00:00'
 requested_by: john-smilga
 provider: github
 branch: main
@@ -65,7 +65,7 @@ tools:
   last_updated_by: john smilga
   last_updated_on: 2023-11-11 14:49:58.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 14.0.1
   open_source: true
